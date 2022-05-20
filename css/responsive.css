@@ -21,6 +21,9 @@
     .review-card {
         margin-bottom: 50px;
     }
+    .gallary-1 {
+  width: 50%;
+}
 }
 
 @media only screen and (max-width: 768px) {
